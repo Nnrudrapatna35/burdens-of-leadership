@@ -1,6 +1,6 @@
 Assessing the Burdens of Leadership: The Effects of Formal Leadership Roles on Individual Performance
 ================
-by MLT: Nagaprasad Rudrapatna, Jack Miller, Issac Fan, and 
+by MLT: Nagaprasad Rudrapatna, Jack Miller, and Issac Fan
 
 ## Summary of project
 
